@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<!-- Animated messenger pigeon (kabootar) carrying a message -->
+<!-- Animated coding pigeon (kabootar) -->
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/aryandas-bit/aryandas-bit/main/assets/pigeon.svg" alt="messenger pigeon animation" />
+  <img width="60%" src="https://raw.githubusercontent.com/aryandas-bit/aryandas-bit/main/assets/pigeon.svg" alt="coding pigeon animation" />
 </p>
 
 <p align="center">
