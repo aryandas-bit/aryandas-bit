@@ -39,7 +39,7 @@
     <!-- typing clips: each rect wipes left→right, holds, then clears on loop -->
     <clipPath id="t1"><rect x="84" y="142" width="0" height="20"><animate attributeName="width" values="0;0;170;170;0" keyTimes="0;0.04;0.12;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t2"><rect x="84" y="166" width="0" height="20"><animate attributeName="width" values="0;0;220;220;0" keyTimes="0;0.13;0.21;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="t3"><rect x="84" y="190" width="0" height="20"><animate attributeName="width" values="0;0;230;230;0" keyTimes="0;0.22;0.30;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t3"><rect x="84" y="190" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.22;0.30;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t4"><rect x="84" y="214" width="0" height="20"><animate attributeName="width" values="0;0;230;230;0" keyTimes="0;0.31;0.39;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t5"><rect x="84" y="238" width="0" height="20"><animate attributeName="width" values="0;0;30;30;0" keyTimes="0;0.40;0.46;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t6"><rect x="84" y="266" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.47;0.58;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
@@ -75,7 +75,7 @@
   <!-- caret that rides the end of each line as it types (synced to the 9s reveal) -->
   <rect x="84" y="142" width="9" height="17" fill="#2bb3a3">
     <animate attributeName="x"
-      values="84;84;254;84;304;84;314;84;314;84;114;84;384;384;84;84"
+      values="84;84;254;84;304;84;384;84;314;84;114;84;384;384;84;84"
       keyTimes="0;0.04;0.12;0.13;0.21;0.22;0.30;0.31;0.39;0.40;0.46;0.47;0.58;0.92;0.93;1"
       dur="9s" repeatCount="indefinite"/>
     <animate attributeName="y"
