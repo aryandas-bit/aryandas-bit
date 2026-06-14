@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<!-- Animated messenger pigeon (kabootar) carrying a message -->
+<p align="center">
+  <img width="70%" src="https://raw.githubusercontent.com/aryandas-bit/aryandas-bit/main/assets/pigeon.svg" alt="messenger pigeon animation" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryandas-bit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
