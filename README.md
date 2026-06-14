@@ -10,7 +10,7 @@
 
 <!-- Animated coding pigeon (kabootar) -->
 <p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/aryandas-bit/aryandas-bit/main/assets/pigeon.svg?v=2" alt="coding pigeon animation" />
+  <img width="60%" src="https://cdn.jsdelivr.net/gh/aryandas-bit/aryandas-bit@main/assets/pigeon.svg" alt="coding pigeon animation" />
 </p>
 
 <p align="center">
