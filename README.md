@@ -1,5 +1,5 @@
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7928CA&height=200&section=header&text=Aryan&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=CX%20%26%20AI%20Operations%20%40%20Ultrahuman&descSize=20&descAlignY=70" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/aryandas-bit/aryandas-bit@main/assets/header.svg" alt="Aryan — CX and AI Operations at Ultrahuman" />
 
 <!-- Animated typing subtitle -->
 <p align="center">
@@ -73,4 +73,4 @@
 [![Ultrahuman](https://img.shields.io/badge/Ultrahuman-000000?logo=data&logoColor=white&style=for-the-badge)](https://ultrahuman.com)
 
 <!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:0e75b6&height=120&section=footer" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/aryandas-bit/aryandas-bit@main/assets/footer.svg" alt="" />

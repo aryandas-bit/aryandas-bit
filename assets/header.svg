@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1200 200" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" role="img" aria-label="Aryan — CX and AI Operations at Ultrahuman">
+  <defs>
+    <linearGradient id="wBack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="100%" stop-color="#2bb3a3"/>
+    </linearGradient>
+    <linearGradient id="wFront" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#0e75b6"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#cfe6ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave -->
+  <g opacity="0.38">
+    <path d="M-600 150 Q -450 120 -300 150 T 0 150 T 300 150 T 600 150 T 900 150 T 1200 150 T 1500 150 T 1800 150 V 210 H -600 Z" fill="url(#wBack)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- front wave -->
+  <g opacity="0.9">
+    <path d="M-600 162 Q -450 134 -300 162 T 0 162 T 300 162 T 600 162 T 900 162 T 1200 162 T 1500 162 T 1800 162 V 210 H -600 Z" fill="url(#wFront)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- title -->
+  <g text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0s" fill="freeze"/>
+    <text x="600" y="92" fill="url(#txt)" font-size="66" font-weight="800" letter-spacing="2">Aryan</text>
+    <text x="600" y="128" fill="#9fb3c8" font-size="20" font-weight="500" letter-spacing="1">CX &amp; AI Operations @ Ultrahuman</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1200 120" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer wave">
+  <defs>
+    <linearGradient id="fBack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#0e75b6"/>
+    </linearGradient>
+    <linearGradient id="fFront" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="100%" stop-color="#2bb3a3"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.38">
+    <path d="M-600 -40 V 50 Q -450 80 -300 50 T 0 50 T 300 50 T 600 50 T 900 50 T 1200 50 T 1500 50 T 1800 50 V -40 Z" fill="url(#fBack)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.9">
+    <path d="M-600 -40 V 38 Q -450 66 -300 38 T 0 38 T 300 38 T 600 38 T 900 38 T 1200 38 T 1500 38 T 1800 38 V -40 Z" fill="url(#fFront)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
